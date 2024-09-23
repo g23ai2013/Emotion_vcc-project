@@ -4,16 +4,15 @@ END TO END PROJECT FOR EMOTION CLASSIFIER
 -------------------
 STEP 1: WRITE THE CODE FOR THE DATASET AS BELOW (THE CODE IS UPLOADED IN THE REPOSITORY)
 
-#Import the necessary libraries
-#Create a function that reads an audio file and extracts three types of features (MFCC, chroma, and mel spectrogram) based on the provided flags, returning them as a single NumPy array. These features are commonly used in audio processing, speech recognition, and music information retrieval tasks.
-#label the emotions
-#write code that loads audio files from a specified dataset, extracts features related to emotions, and splits the data into training and test sets. This is commonly used in machine learning workflows for training models to classify emotions based on audio input.
-#Split the dataset into training and testing
-#Create an MLP Classifier
-#Observe the accuracy of the model
-In our case we have the got the accuracy as - 74.48%
-#Plot ROC-AUC curve
-#Create pickle file 
+1. #Import the necessary libraries
+2. #Create a function that reads an audio file and extracts three types of features (MFCC, chroma, and mel spectrogram) based on the provided flags, returning them as a single NumPy array. These features are commonly used in audio processing, speech recognition, and music information retrieval tasks.
+3. #label the emotions
+4. #write code that loads audio files from a specified dataset, extracts features related to emotions, and splits the data into training and test sets. This is commonly used in machine learning workflows for training models to classify emotions based on audio input.
+5. #Split the dataset into training and testing
+6. #Create an MLP Classifier
+7. #Observe the accuracy of the model- In our case we have the got the accuracy as - 74.48%
+8. #Plot ROC-AUC curve
+9. #Create pickle file 
 
 -----------------------------------------------
 
