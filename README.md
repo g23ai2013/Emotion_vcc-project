@@ -28,9 +28,9 @@ STEP 2: SETTING UP THE DJANGO PROJECT
 6. Setting up the settings.py inside project directory.
 7. run the command to initialize the tables: python manage.py migrate
 8. run the command: python manage.py runserver
+   
+NOTE : When creating your private key using puttyGen, check the "save private key",
 
-->When creating your private key using puttyGen, check the "save private key",
-I might have mistakenly said the public key.
 ----------------------------------------------------
 STEP3 :SET UP VIRTUAL MACHINE IN AWS
 ---------------------------------------------------
